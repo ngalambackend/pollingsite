@@ -1,0 +1,5 @@
+.vscode
+poll/__pycache__
+poll/migrations
+pollingsite/__pycache__
+poll/migrations/__pycache__
